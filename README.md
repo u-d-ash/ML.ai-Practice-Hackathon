@@ -12,5 +12,5 @@
   * This was not working out well as my public leaderboard scores were floating around 2.20.
 * Next I went with neural networks and my scores started improving
   * Changed the parameters with trial-and-error and submitted the model which looked the most promising
-  * Notebook in this repo has the neural network architecture which was used for my best submission
+  * Notebook in this repo has the neural network architecture which was used for my best submission (it was an abnormal fit but I went with it anyway :P)
 
